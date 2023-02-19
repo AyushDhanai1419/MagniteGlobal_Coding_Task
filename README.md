@@ -3,14 +3,22 @@
 
 Video Link : https://youtu.be/Bgu3OdYYaT4
 
+<h3>Platform and Development tools</h3>
+ 1. Backend - Spring tool Suit, Postman, Sonarlint, MySqlConnector
+ 2. Frontend - Visual Studio Code
+ 
+ <h3>Sdks/APIs</h3>
+ 1. Backend - Spring Boot, Junit, Mockito, ModelMapper, MySQL, Maven, Java, 
+ 2. Frontend - Angular , Typescript, Html, CSS, 
+
 Folder Structure is a Follows : 
 
 Backend Code is in => EmployeeHappinessIndexBackend
 
 FrontEnd Code is in => employeeHapinessIndex
 
-
-<H3>I have used Angular Framework and Spring Boot for Development</H3>
+<h3>Description :</h3>  
+<H4>I have used Angular Framework and Spring Boot for Development</H4>
 
 Some important aspect covered here are :
  
