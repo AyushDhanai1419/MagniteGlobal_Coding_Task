@@ -1,6 +1,8 @@
 # MagniteGlobal_Coding_Task
  
 
+Video Link : https://youtu.be/Bgu3OdYYaT4
+
 Folder Structure is a Follows : 
 
 Backend Code is in => EmployeeHappinessIndexBackend
@@ -25,4 +27,3 @@ Some Screenshots of application :
 
 ![image](https://user-images.githubusercontent.com/30471382/219929148-05ae6b92-850c-4a0f-a005-f0a54a585409.png)
 
-Video Link : https://youtu.be/Bgu3OdYYaT4
